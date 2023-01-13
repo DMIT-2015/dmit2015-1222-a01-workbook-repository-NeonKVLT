@@ -1,8 +1,8 @@
 # DMIT2015 Fall 2022 assignments
 
-## your name here
+## Zachary MacGregor
 
-## your Github Account id
+## NeonKVLT
 
 This is a private repository for your assignments. 
 You will use this only for evaluation work. 
